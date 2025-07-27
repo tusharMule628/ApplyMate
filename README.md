@@ -1,2 +1,10 @@
-# ApplyMate
-AI-powered job application assistant built with Streamlit + Hugging Face. Helps users apply for jobs smartly.
+# ApplyMate 
+
+ApplyMate is a fun and professional job application chatbot built with Streamlit and Hugging Face.
+
+Try it Live: https://applymate.streamlit.app
+
+## Features
+- Resume Upload + Parsing
+- Industry-neutral job application assistant
+- Powered by open-source models
